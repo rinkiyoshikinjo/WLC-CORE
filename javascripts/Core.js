@@ -1,4 +1,4 @@
-//----------------------Do not edit this script unless you know what you are doing----------------------nexter2
+//----------------------Do not edit this script unless you know what you are doing----------------------nexter3
 
 //Variables for the script
 var c = user;
