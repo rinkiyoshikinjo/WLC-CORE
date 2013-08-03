@@ -1,6 +1,6 @@
-//----------------------Do not edit this script unless you know what you are doing---asdasdasd-------------------
+//----------------------Do not edit this script unless you know what you are doing----------------------
 
-//Variables for the script
+//Variables for the script Give it time to update
 var c = user;
 var u;
 var p;
