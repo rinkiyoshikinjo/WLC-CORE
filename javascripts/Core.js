@@ -6,7 +6,7 @@ $.getJSON(chrome.extension.getURL('recipe.json'), function(recipe) {
 	console.log(recipe.WLCuser2);
 	Core(WLCuser2);
 });
-function Core(){
+function Core(WLCuser){
 	var c = WLCuser;
 	var u;
 	var p;
