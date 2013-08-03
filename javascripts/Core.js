@@ -115,3 +115,6 @@ $('form#signInForm').submit(function(){
 	});
 	
 	
+function Log(message){
+	console.log(message);
+}
