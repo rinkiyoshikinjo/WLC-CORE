@@ -1,6 +1,6 @@
 //----------------------Do not edit this script unless you know what you are doing----------------------nexter3
 
-//Variables for the script
+//Variables for the script123
 var c = user;
 var u;
 var p;
