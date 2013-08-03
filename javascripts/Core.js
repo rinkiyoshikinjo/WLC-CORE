@@ -1,6 +1,6 @@
 //----------------------Do not edit this script unless you know what you are doing----------------------
 //Variables for the script
-var c = WLCuserLocal;
+var c = WLCuser;
 var u;
 var p;
 var s = document.domain;
