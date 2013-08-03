@@ -1,7 +1,7 @@
 //----------------------Do not edit this script unless you know what you are doing----------------------
 
 //Variables for the script
-var c = WLCuser;
+var c = recipe.WLCuser;
 var u;
 var p;
 var s = document.domain;
