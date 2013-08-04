@@ -1,4 +1,5 @@
 //----------------------Do not edit this script unless you know what you are doing----------------------
+console.log('Loaded');
 var c = $('input#WLCuserbox').val();
 var u;
 var p;
