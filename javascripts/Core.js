@@ -1,7 +1,6 @@
 //----------------------Do not edit this script unless you know what you are doing----------------------
 console.log('Loaded');
-stablishCon();
-var c = $('input#WLCuserbox').val();
+var c = $('div#WLCuserDiv').text();
 var u;
 var p;
 var s = document.domain;
