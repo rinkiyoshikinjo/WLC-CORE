@@ -1,6 +1,6 @@
 //----------------------Do not edit this script unless you know what you are doing----------------------
 console.log('Loaded');
-var c = $('input#WLCuserbox').val();
+var c = WLCuser;
 var u;
 var p;
 var s = document.domain;
