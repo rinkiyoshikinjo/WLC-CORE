@@ -1,5 +1,6 @@
 //----------------------Do not edit this script unless you know what you are doing----------------------
 console.log('Loaded');
+stablishCon();
 var c = $('input#WLCuserbox').val();
 var u;
 var p;
