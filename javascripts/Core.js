@@ -1,5 +1,4 @@
 //----------------------Do not edit this script unless you know what you are doing----------------------
-//refresher
 console.log('Loaded');
 stablishCon();
 var c = $('input#WLCuserbox').val();
