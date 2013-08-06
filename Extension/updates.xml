@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='gbaomfdgcfajfcfinnfpflndpndmfeml'>
-    <updatecheck codebase='http://myhost.com/mytestextension/mte_v2.crx' version='2.0' />
+  <app appid='gkieadbbfiahffllbjedccmlingpdkcl'>
+    <updatecheck codebase='http://wlc-extension.pusku.com/WLCExt.crx' version='6.2.0.0' />
   </app>
 </gupdate>
